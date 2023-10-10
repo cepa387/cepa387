@@ -6,7 +6,7 @@
 
 - 🌍 **Ubicación:** Actualmente vivo en Santa Marta - Colombia
 - 💼 **Actualmente trabajando en:** Incolab Services , como asistente de tecnologia de la información
-- 🌱 **Actualmente aprendiendo:** Angular, TypeScript
+- 🌱 **Actualmente aprendiendo:** Angular, Vue.js
 - 📫 **Cómo contactarme:** https://www.linkedin.com/in/carlos-eduardo-polo-arrieta-1a685b7a/   email: ing.sistema.cepa@gmail.com
 
 <h2>Proyectos Destacados</h2>
@@ -21,15 +21,15 @@
 
 <p>Tengo experiencia en el uso de una variedad de tecnologías, incluyendo:</p>
 
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
-- **Backend:** Node.js, Express, Python, Ruby on Rails
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
-- **Otros:** Git, Docker, AWS, Azure
+- **Frontend:** HTML, CSS, JavaScript, React.
+- **Backend:** Node.js, Express, Sequelize.
+- **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
+- **Otros:** Github.
 
 <h2>Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=cepa387&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o estás interesado en colaborar en proyectos, no dudes en contactarme. ¡Espero que encuentres interesantes mis proyectos!</p>
