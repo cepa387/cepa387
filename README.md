@@ -1,13 +1,13 @@
-<h1 align="center">Hola, soy [Carlos Polo Arrieta] 👋</h1>
+<h1 align="center">Hola, soy Carlos Polo Arrieta 👋</h1>
 
 <p align="center">¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador fullstack con experiencia en una variedad de tecnologías. Aquí encontrarás una breve descripción sobre mí y algunos de los proyectos en los que he trabajado.</p>
 
 <h2>Acerca de mí</h2>
 
-- 🌍 **Ubicación:** [Actualmente vivo en Santa Marta - Colombia]
-- 💼 **Actualmente trabajando en:** [Incolab Services , como asistente de tecnologia de la información]
-- 🌱 **Actualmente aprendiendo:** [Angular]
-- 📫 **Cómo contactarme:** [https://www.linkedin.com/in/carlos-eduardo-polo-arrieta-1a685b7a/   email: ing.sistema.cepa@gmail.com]
+- 🌍 **Ubicación:** Actualmente vivo en Santa Marta - Colombia
+- 💼 **Actualmente trabajando en:** Incolab Services , como asistente de tecnologia de la información
+- 🌱 **Actualmente aprendiendo:** Angular, TypeScript
+- 📫 **Cómo contactarme:** https://www.linkedin.com/in/carlos-eduardo-polo-arrieta-1a685b7a/   email: ing.sistema.cepa@gmail.com
 
 <h2>Proyectos Destacados</h2>
 
