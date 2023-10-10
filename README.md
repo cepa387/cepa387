@@ -13,7 +13,7 @@
 
 <p>Algunos de los proyectos en los que he trabajado incluyen:</p>
 
-1. **[Nombre del Proyecto 1](Enlace al Proyecto 1)** - Breve descripción del proyecto.
+1. **Supermarketshop https://supermarketshop.vercel.app/ ** Desarrollo de ecommerce, utilizando Javascript, Redux, React, Node.js, otros..
 2. **[Nombre del Proyecto 2](Enlace al Proyecto 2)** - Breve descripción del proyecto.
 3. **[Nombre del Proyecto 3](Enlace al Proyecto 3)** - Breve descripción del proyecto.
 
