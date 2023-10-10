@@ -14,7 +14,7 @@
 <p>Algunos de los proyectos en los que he trabajado incluyen:</p>
 
 1. **Supermarketshop https://supermarketshop.vercel.app/ ** Desarrollo de ecommerce, utilizando Javascript, Redux, React, Node.js, otros..
-2. **[Nombre del Proyecto 2](Enlace al Proyecto 2)** - Breve descripción del proyecto.
+2. ** Food https://github.com/cepa387/Pi-Food.git** - Proyecto desarrollado para practicar concimientos adquiridos en el curso de fullstack se utiliza lenguaje javascript, Redux, sequelize, Node, React, Bootstrap, cas, html.
 3. **[Nombre del Proyecto 3](Enlace al Proyecto 3)** - Breve descripción del proyecto.
 
 <h2>Tecnologías</h2>
