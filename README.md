@@ -29,7 +29,7 @@
 <h2>Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cepa387&show_icons=true&theme=dark" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=cepa387&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
 <p align="center">¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o estás interesado en colaborar en proyectos, no dudes en contactarme. ¡Espero que encuentres interesantes mis proyectos!</p>
