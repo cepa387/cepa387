@@ -21,7 +21,7 @@
 
 <p>Tengo experiencia en el uso de una variedad de tecnologías, incluyendo:</p>
 
-- **Frontend:** HTML, CSS, JavaScript, React.
+- **Frontend:** HTML, CSS, JavaScript, React, React Native.
 - **Backend:** Node.js, Express, Sequelize.
 - **Bases de Datos:** MySQL, PostgreSQL, SQL Server.
 - **Otros:** Github.
